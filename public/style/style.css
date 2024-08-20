@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #EF237E;
+ }
+ 
+ .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+    font-size: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #2FF095;
+    padding: 10px;
+ }
+ 
+ form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+ }
+ 
+ input{
+    height: 30px;
+    border-radius: 5px;
+    margin: 2px;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ h1{
+    text-align: center;
+ }
