@@ -58,4 +58,4 @@ You can go back to the homepage to generate another barcode.
 `bwip-js`: Library to generate barcodes.
 `ejs`: Embedded JavaScript templating engine.
 `nodemon`: A utility that monitors for any changes in your source and automatically restarts the server.
-- `node`: JavaScript runtime environment.
+`node`: JavaScript runtime environment.
