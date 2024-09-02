@@ -42,7 +42,7 @@ You can go back to the homepage to generate another barcode.
 
 ## Project Structure
 
-- `app.js`: The main application file that sets up the Express server and handles routes.
+- `index.js`: The main application file that sets up the Express server and handles routes.
 - `views/`: Directory containing the EJS templates for rendering HTML pages.
   - `index.ejs`: The main page where users input text or URLs.
   - `generate.ejs`: The page where the generated Bar code is displayed.
