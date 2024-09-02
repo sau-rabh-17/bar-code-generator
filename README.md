@@ -51,6 +51,7 @@ You can go back to the homepage to generate another barcode.
     - `style.css`: CSS file for styling the main page where users input text or URLs.
     - `generate.css`: CSS file for styling the page where the generated BAR code is displayed.
 - `package.json`: Contains the project dependencies and scripts.
+- `package-lock.json`: Ensures consistency across different environments
 
 ## Dependencies
 - `express`: Web framework for Node.js.
