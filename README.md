@@ -11,9 +11,9 @@ This is a simple Node.js application that generates a barcode from user-provided
 
 ## Technologies Used
 
-- Node.js
-- Express.js
-- EJS (Embedded JavaScript templates)
+- `Node.js`
+- `Express.js`
+- `EJS` (Embedded JavaScript templates)
 - `bwip-js` package for barcode generation
 - `body-parser` middleware for handling form submissions
 
@@ -32,7 +32,7 @@ This is a simple Node.js application that generates a barcode from user-provided
    npx nodemon index.js
 
 5. **Access the application:**
-   Open your browser and go to http://localhost:4000.
+   Open your browser and go to `http://localhost:4000`.
 
 ## Usage
 On the homepage, enter the text you want to generate a barcode for.
@@ -58,3 +58,4 @@ You can go back to the homepage to generate another barcode.
 `bwip-js`: Library to generate barcodes.
 `ejs`: Embedded JavaScript templating engine.
 `nodemon`: A utility that monitors for any changes in your source and automatically restarts the server.
+- `node`: JavaScript runtime environment.
