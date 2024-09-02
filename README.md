@@ -53,9 +53,9 @@ You can go back to the homepage to generate another barcode.
 - `package.json`: Contains the project dependencies and scripts.
 
 ## Dependencies
-`express`: Web framework for Node.js.
-`body-parser`: Middleware to parse incoming request bodies.
-`bwip-js`: Library to generate barcodes.
-`ejs`: Embedded JavaScript templating engine.
-`nodemon`: A utility that monitors for any changes in your source and automatically restarts the server.
-`node`: JavaScript runtime environment.
+- `express`: Web framework for Node.js.
+- `body-parser`: Middleware to parse incoming request bodies.
+- `bwip-js`: Library to generate barcodes.
+- `ejs`: Embedded JavaScript templating engine.
+- `nodemon`: A utility that monitors for any changes in your source and automatically restarts the server.
+- `node`: JavaScript runtime environment.
