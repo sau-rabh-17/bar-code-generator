@@ -3,7 +3,7 @@ import bodyParser from "body-parser";
 import bwipjs from 'bwip-js'; 
 
 const app = express();
-const port = 4000;
+const port = 10000;
 
 
 app.use(bodyParser.urlencoded({extended:true}));
